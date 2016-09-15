@@ -1,0 +1,118 @@
+body {background-color: #DDDDDD; font: normal 17px Arial; margin: 0px; padding: 0px;}
+
+a:link {text-decoration: none; color: #0066CC;}
+
+a:visited {text-decoration: none; color: #0066CC;}
+
+a:active {text-decoration: none; color: #0066CC;}
+
+a:hover {text-decoration: none; color: #0066CC;}
+
+a:visited img {text-decoration: none; color: #FFFFFF;}
+
+a:link img {text-decoration: none; color: #FFFFFF;}
+
+a:active img {text-decoration: none; color: #FFFFFF;}
+
+a:hover img {text-decoration: none; color: #FFFFFF;}
+
+#part1 {position: relative; background-color: white; left: 0px; top: 0px; width: 930px;
+		  	overflow: auto;}
+
+#part2 {position: relative; margin-top: -140px; margin-right: 20px; height: 130px;}
+
+#part3 {position: relative; height: 200px;}
+
+#text {margin-left: 165px; font: bold 24px Arial;}
+
+#text2 {margin-left: 165px;}
+
+#text3 {margin-left: -178px;}
+
+#item {margin-left: 165px;}
+
+#item2 {margin-left: 215px; margin-top: -190px; width: 300px;}
+
+#item3 {margin-left: 778px; margin-top: -123px;}
+
+#item4 {margin-left: 165px; margin-top: 150px;}
+
+#item5 {margin-left: 215px; margin-top: -190px; width: 300px;}
+
+#item6 {margin-left: 778px; margin-top: -103px;}
+
+#item7 {margin-left: 165px; margin-top: 150px;}
+
+#item8 {margin-left: 215px; margin-top: -190px; width: 300px;}
+
+#item9 {margin-left: 778px; margin-top: -103px;}
+
+#item10 {margin-left: 778px; margin-top: -124px;}
+
+#item11 {margin-left: 778px; margin-top: -124px;}
+
+#item12 {margin-right: 258px; margin-top: -30px;}
+
+#item13 {margin-right: 258px; margin-top: -53px;}
+
+#pos1 {margin-left: 65px;}
+
+#pos2 {margin-left: 100px;}
+
+#pos3 {margin-left: 395px; margin-top: -228px;}
+
+#pos4 {margin-left: 393px; margin-top: -1px;}
+
+#pos5 {margin-left: 665px; margin-top: -228px;}
+
+#pos6 {margin-left: 685px; margin-top: -1px;}
+
+#pos7 {margin-left: 65px; margin-top: 90px;}
+
+#pos8 {margin-left: 100px;}
+
+#pos9 {margin-left: 375px; margin-top: -228px;}
+
+#pos10 {margin-left: 408px;}
+
+#pos11 {margin-left: 665px; margin-top: -228px;}
+
+#pos12 {margin-left: 685px; margin-top: -1px;}
+
+#logo {margin-left: 12px; margin-top: 30px;}
+
+#local {width: 250px; margin-left: 165px}
+
+#space {height: 340px;}
+
+#space2 {height: 210px;}
+
+#space3 {height: 305px;}
+
+#block {border: 1px solid; width: 300px; height: 120px; margin-top: 30px; margin-left: -296px;}
+
+#block2 {border: 1px solid; width: 400px; height: 250px; margin-top: 30px; margin-left: -196px;}
+
+#block3 {border: 1px solid; width: 300px; height: 155px; margin-top: 30px; margin-left: -296px;}
+
+#block4 {border: 1px solid; width: 400px; height: 280px; margin-top: 30px; margin-left: -196px;}
+
+#menu {margin-top: -1px; width: 900px;}
+
+#items {margin-top: 0; padding: 0; height: 2em;}
+
+#items li {list-style: none; float: left; padding: 1px;}
+
+#items li a {display: block; padding: 3px 8px; background-color: #0066CC; color: #FFFFFF; 
+					width:132px; text-decoration: none;}
+
+#items li ul {display: none; width: 8.75em; background-color: #FFFFFF;}
+
+#items li:hover ul, #items li.hover ul {display: block; position: absolute; margin: 0; padding: 0;}
+
+#items li:hover li, #items li.hover li {float: none;}
+
+#items li:hover li a, #items li.hover li a {background-color: #FFFFFF; color: #0066CC; border: 1px solid; margin-top: -2px; 
+																	margin-left: -1px; width: 130px;}
+
+#items li li a:hover {background-color: #DDDDDD; color: #0066CC; border: 1px solid; border-color: #0066CC;}
